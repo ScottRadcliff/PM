@@ -9,9 +9,10 @@ Features:
 I want to create projects
 So I can manage multiple projects at one time
 
-[] Attributes: name
+[x] Attributes: name
 [] /projects/:id
 [] /projects
+[] Unique name
 
 I want to update projects
 So I can adapt to changes in projects

@@ -1,2 +1,6 @@
 <h1>Projects</h1>
 <a href="/projects/new">New Project</a>
+
+<%= for project <- @projects do %>
+  <p><%= link project.name, to: Routes.project_path(@conn, :show, project.id) %></p>
+<% end %> 
