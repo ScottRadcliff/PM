@@ -5,9 +5,9 @@ Summary: PM is a software application that allows me to manage the projects I am
 
 Features:
 
-* Crud Projects
-I want to create projects
-So I can manage multiple projects at one time
+* Crud Projects  
+I want to create projects  
+So I can manage multiple projects at one time  
 
 - [x] Attributes: name
 - [x] /projects/:id
