@@ -21,7 +21,7 @@ I want to mark projects as complete or incomplete
 So I can keep the UI clean
 
 
-* Crud tasks
+* Crud tasks  
 I want to create tasks for a project
 So I can track work that needs to be done
 
@@ -32,12 +32,12 @@ I want to delete tasks that are no longer relevant
 So I can make sure completed and uncompleted tasks represent the project
 
 
-* Save files
+* Save files  
 I want to attach files to a project
 So I can keep all project assets in one place
 
 
-* Reminders
+* Reminders  
 I want to set a reminder that alerts me when things are due
 So that I can make sure nothing falls through the cracks
 
