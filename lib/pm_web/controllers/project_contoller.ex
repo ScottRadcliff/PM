@@ -18,7 +18,7 @@ defmodule PmWeb.ProjectController do
     |> Project.changeset(project_params)
     |> Repo.insert()
     |> case do
-      {:ok, room} ->
+      {:ok, project} ->
         conn
         |> put_flash(:info, "Project created successfully.")
         |> redirect(to: Routes.project_path(conn, :index))

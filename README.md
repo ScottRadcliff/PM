@@ -10,8 +10,8 @@ I want to create projects
 So I can manage multiple projects at one time
 
 [x] Attributes: name
-[] /projects/:id
-[] /projects
+[x] /projects/:id
+[x] /projects
 [] Unique name
 
 I want to update projects
@@ -40,6 +40,11 @@ So I can keep all project assets in one place
 * Reminders
 I want to set a reminder that alerts me when things are due
 So that I can make sure nothing falls through the cracks
+
+
+Backlog
+
+[] Refactor project creation to model
 
 
 
