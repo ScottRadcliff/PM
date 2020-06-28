@@ -15,6 +15,7 @@ defmodule PmWeb.Router do
 
   scope "/", PmWeb do
     pipe_through :browser
+    resources "/projects", ProjectController
 
     get "/", PageController, :index
   end
